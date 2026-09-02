@@ -8,6 +8,7 @@
 
 ### 🚀 What I'm working on
 - **Edge AI-Based Predictive Maintenance System** — Raspberry Pi 4 + multi-sensor fusion for centrifugal pump health monitoring
+- **PLC-HMI based real-time pump monitoring** for Schneider Electric India Hackathon 2026
 
 ### 🛠️ Tech I work with
 
