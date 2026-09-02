@@ -26,7 +26,7 @@
 | [Voice-Controlled Robotic Car](#) | Bluetooth + ultrasonic obstacle avoidance |
 | [Autonomous Fire-Fighting Robot](#) | Flame detection + automated extinguishing |
 
-*(Replace the `#` with the actual repo links once you've uploaded them — Step 3.)*
+
 
 ### 📫 Reach me
 [LinkedIn](your-linkedin-url) · aarushi06ranjan@gmail.com
