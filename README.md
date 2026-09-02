@@ -7,20 +7,19 @@
 ---
 
 ### 🚀 What I'm working on
-- **Smart Pump Monitoring, Control & Energy Management System** — PLC-HMI based real-time pump monitoring for Schneider Electric India Hackathon 2026
 - **Edge AI-Based Predictive Maintenance System** — Raspberry Pi 4 + multi-sensor fusion for centrifugal pump health monitoring
 
 ### 🛠️ Tech I work with
 
 **Automation:** PLC · HMI · CoDeSys · VFD · Motor/Pump Control · Alarm Handling
 **Embedded:** ESP32 · Arduino Nano · Raspberry Pi 4 · Sensor Interfacing · PCB Design
+**Robotics:** Robot Kinematics · Robot Dynamics · Forward/Inverse Kinematics · Motion Planning Basics · Control Systems
 **Languages:** C · C++ · Python
 **Tools:** LabVIEW · AutoCAD · SolidWorks · Power BI
 
 ### 📌 Featured Projects
 | Project | Description |
 |---|---|
-| [Smart Pump Monitoring System](#) | PLC-HMI real-time pump control & energy management |
 | [Edge AI Predictive Maintenance](#) | Raspberry Pi sensor fusion for pump anomaly detection |
 | [Dr. Glove](#) | Wearable for pulse, SpO2 & temperature monitoring |
 | [Voice-Controlled Robotic Car](#) | Bluetooth + ultrasonic obstacle avoidance |
